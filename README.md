@@ -1,5 +1,7 @@
 #github-update-checker
 
+[Techmaxx]https://techmaxx.io
+
 Compares project's package.json version and latest GitHub tag version and returns the result.
 
 It's really dumb, it just extracts all numbers from a tag name and doesn't use semver, so "v1.1.1" will become "111".
@@ -74,5 +76,3 @@ updater.uptodate(function( uptodate ) {
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/clexit/github-update-checker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-Homepage: https://techmaxx.io
