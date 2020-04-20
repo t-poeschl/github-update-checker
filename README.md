@@ -1,6 +1,6 @@
 #github-update-checker
 
-[Techmaxx]https://techmaxx.io
+[Techmaxx](https://techmaxx.io)
 
 Compares project's package.json version and latest GitHub tag version and returns the result.
 
